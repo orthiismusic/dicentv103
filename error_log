@@ -1,0 +1,67 @@
+[27-Mar-2026 16:54:36 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.nombre' in 'SELECT' in /home/xygfyvca/public_html/dicen/v95/ver_cliente.php:116
+Stack trace:
+#0 /home/xygfyvca/public_html/dicen/v95/ver_cliente.php(116): PDOStatement->execute()
+#1 {main}
+  thrown in /home/xygfyvca/public_html/dicen/v95/ver_cliente.php on line 116
+[27-Mar-2026 16:54:46 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.nombre' in 'SELECT' in /home/xygfyvca/public_html/dicen/v95/ver_cliente.php:116
+Stack trace:
+#0 /home/xygfyvca/public_html/dicen/v95/ver_cliente.php(116): PDOStatement->execute()
+#1 {main}
+  thrown in /home/xygfyvca/public_html/dicen/v95/ver_cliente.php on line 116
+[27-Mar-2026 16:55:35 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.nombre' in 'SELECT' in /home/xygfyvca/public_html/dicen/v95/ver_cliente.php:116
+Stack trace:
+#0 /home/xygfyvca/public_html/dicen/v95/ver_cliente.php(116): PDOStatement->execute()
+#1 {main}
+  thrown in /home/xygfyvca/public_html/dicen/v95/ver_cliente.php on line 116
+[27-Mar-2026 17:23:02 America/New_York] PHP Warning:  Undefined variable $stmt in /home/xygfyvca/public_html/dicen/v95/editar_contrato.php on line 4
+[27-Mar-2026 17:23:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/xygfyvca/public_html/dicen/v95/editar_contrato.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/xygfyvca/public_html/dicen/v95/editar_contrato.php on line 4
+[27-Mar-2026 17:27:56 America/New_York] PHP Warning:  Undefined variable $stmt in /home/xygfyvca/public_html/dicen/v95/editar_contrato.php on line 4
+[27-Mar-2026 17:27:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/xygfyvca/public_html/dicen/v95/editar_contrato.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/xygfyvca/public_html/dicen/v95/editar_contrato.php on line 4
+[27-Mar-2026 17:47:32 America/New_York] PHP Warning:  Undefined variable $stmt in /home/xygfyvca/public_html/dicen/v95/editar_contrato.php on line 4
+[27-Mar-2026 17:47:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/xygfyvca/public_html/dicen/v95/editar_contrato.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/xygfyvca/public_html/dicen/v95/editar_contrato.php on line 4
+[27-Mar-2026 19:46:12 America/New_York] PHP Warning:  Undefined variable $stmt in /home/xygfyvca/public_html/dicen/v95/editar_contrato.php on line 4
+[27-Mar-2026 19:46:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/xygfyvca/public_html/dicen/v95/editar_contrato.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/xygfyvca/public_html/dicen/v95/editar_contrato.php on line 4
+[28-Mar-2026 01:26:44 America/New_York] PHP Warning:  Undefined variable $stmt in /home/xygfyvca/public_html/dicen/v95/editar_contrato.php on line 4
+[28-Mar-2026 01:26:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/xygfyvca/public_html/dicen/v95/editar_contrato.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/xygfyvca/public_html/dicen/v95/editar_contrato.php on line 4
+[30-Mar-2026 21:54:15 America/New_York] mensajecobrador chat: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.cliente_id' in 'ON'
+[30-Mar-2026 21:55:00 America/New_York] mensajecobrador chat: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.cliente_id' in 'ON'
+[30-Mar-2026 21:55:00 America/New_York] mensajecobrador POST: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'tipo' in 'INSERT INTO'
+[30-Mar-2026 21:55:00 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/xygfyvca/public_html/dicen/v101/header.php:89) in /home/xygfyvca/public_html/dicen/v101/mensajecobrador.php on line 113
+[30-Mar-2026 21:56:09 America/New_York] mensajecobrador chat: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.cliente_id' in 'ON'
+[30-Mar-2026 21:56:23 America/New_York] mensajecobrador chat: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.cliente_id' in 'ON'
+[30-Mar-2026 21:56:23 America/New_York] mensajecobrador POST: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'tipo' in 'INSERT INTO'
+[30-Mar-2026 21:56:23 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/xygfyvca/public_html/dicen/v101/header.php:89) in /home/xygfyvca/public_html/dicen/v101/mensajecobrador.php on line 113
+[30-Mar-2026 21:56:27 America/New_York] mensajecobrador chat: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.cliente_id' in 'ON'
+[30-Mar-2026 22:11:35 America/New_York] mensajecobrador chat: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.cliente_id' in 'ON'
+[30-Mar-2026 22:11:37 America/New_York] mensajecobrador chat: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.cliente_id' in 'ON'
+[30-Mar-2026 22:13:31 America/New_York] mensajecobrador chat: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.cliente_id' in 'ON'
+[30-Mar-2026 22:15:42 America/New_York] mensajecobrador chat: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.cliente_id' in 'ON'
+[30-Mar-2026 22:16:07 America/New_York] mensajecobrador chat: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.cliente_id' in 'ON'
+[30-Mar-2026 22:16:07 America/New_York] mensajecobrador POST: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'tipo' in 'INSERT INTO'
+[30-Mar-2026 22:16:07 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/xygfyvca/public_html/dicen/v101/header.php:89) in /home/xygfyvca/public_html/dicen/v101/mensajecobrador.php on line 113
+[30-Mar-2026 22:16:21 America/New_York] mensajecobrador chat: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.cliente_id' in 'ON'
+[30-Mar-2026 22:16:21 America/New_York] mensajecobrador POST: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'tipo' in 'INSERT INTO'
+[30-Mar-2026 22:16:21 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/xygfyvca/public_html/dicen/v101/header.php:89) in /home/xygfyvca/public_html/dicen/v101/mensajecobrador.php on line 113
+[30-Mar-2026 22:18:15 America/New_York] mensajecobrador chat: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.cliente_id' in 'ON'
+[30-Mar-2026 22:39:26 America/New_York] mensajecobrador chat: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.cliente_id' in 'ON'
+[30-Mar-2026 22:41:54 America/New_York] mensajecobrador chat: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.cliente_id' in 'ON'
+[30-Mar-2026 22:43:51 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/xygfyvca/public_html/dicen/v101/header.php:89) in /home/xygfyvca/public_html/dicen/v101/mensajecobrador.php on line 112
+[30-Mar-2026 22:44:00 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/xygfyvca/public_html/dicen/v101/header.php:89) in /home/xygfyvca/public_html/dicen/v101/mensajecobrador.php on line 112
+[30-Mar-2026 22:45:08 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/xygfyvca/public_html/dicen/v101/header.php:89) in /home/xygfyvca/public_html/dicen/v101/mensajecobrador.php on line 112
+[30-Mar-2026 22:45:42 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/xygfyvca/public_html/dicen/v101/header.php:89) in /home/xygfyvca/public_html/dicen/v101/mensajecobrador.php on line 112
+[30-Mar-2026 22:47:45 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/xygfyvca/public_html/dicen/v101/header.php:89) in /home/xygfyvca/public_html/dicen/v101/mensajecobrador.php on line 112
