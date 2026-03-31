@@ -1,9 +1,9 @@
 <?php
 // config.php
 define('DB_HOST', 'localhost');
-define('DB_USER', 'xygfyvca_disen101');
+define('DB_USER', 'xygfyvca_disen103');
 define('DB_PASS', '*Camil7172*');
-define('DB_NAME', 'xygfyvca_disen101');
+define('DB_NAME', 'xygfyvca_disen103');
 
 // Configurar parámetros de sesión antes de iniciarla
 ini_set('session.cookie_httponly', 1);
